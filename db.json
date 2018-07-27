@@ -1,0 +1,25 @@
+
+{
+"produk" : [
+{"id":1,"name":"Nissan","category":2012},
+{"id":2,"name":"Mazda","category":2001},
+{"id":3,"name":"Maserati","category":2009},
+{"id":4,"name":"Audi","category":2012},
+{"id":5,"name":"Subaru","category":2005},
+{"id":6,"name":"Pontiac","category":1973},
+{"id":7,"name":"Mercury","category":1985},
+{"id":8,"name":"Mitsubishi","category":2004},
+{"id":9,"name":"Land Rover","category":1986},
+{"id":10,"name":"Bentley","category":2009},
+{"id":11,"name":"BMW","category":2006},
+{"id":12,"name":"Chevrolet","category":2005},
+{"id":13,"name":"GMC","category":2002},
+{"id":14,"name":"Chevrolet","category":2011},
+{"id":15,"name":"Subaru","category":1984},
+{"id":16,"name":"Volvo","category":2012},
+{"id":17,"name":"Toyota","category":2006},
+{"id":18,"name":"Honda","category":1992},
+{"id":19,"name":"GMC","category":1995},
+{"id":20,"name":"Chevrolet","category":2001}
+]
+}
